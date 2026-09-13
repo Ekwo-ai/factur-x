@@ -1,3 +1,5 @@
+> **Moved.** This package now lives in [`Ekwo-ai/ekwo`](https://github.com/Ekwo-ai/ekwo) under `packages/formats/factur-x/`, still under MIT. This repository is archived and kept for history; open issues and pull requests there.
+
 # @ekwo-ai/factur-x
 
 Factur-X / ZUGFeRD electronic invoices in TypeScript.
